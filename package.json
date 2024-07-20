@@ -1,0 +1,19 @@
+{
+  "name": "nginx-proxy-manager-openapi",
+  "version": "1.0.0",
+  "description": "Generate OpenAPI schema for Nginx Proxy Manager",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sander0542/nginx-proxy-manager-openapi.git"
+  },
+  "author": "Sander Jochems <sanderjochems@hotmail.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sander0542/nginx-proxy-manager-openapi/issues"
+  },
+  "homepage": "https://github.com/Sander0542/nginx-proxy-manager-openapi#readme",
+  "dependencies": {
+    "@openapi-contrib/json-schema-to-openapi-schema": "^3.0.2"
+  }
+}
